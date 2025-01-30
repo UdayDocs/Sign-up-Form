@@ -1,12 +1,5 @@
 body {
     font-family: Verdana,Tahoma,sans-serif;
-    /* background-image: url('');
-    background-size: cover;
-    background-position: center center;
-    background-repeat: no-repeat;
-    display: flex;
-    justify-content: center;
-    align-items: center; */
      height: 100vh;
      display: flex;
      align-items: center;
@@ -52,13 +45,6 @@ body {
 .logo-bar img {
     max-height: 100%;
 }
-
-/* main {
-    height: 100%;
-    max-width: 65%;
-    background-color: #FAFAFA;
- }   Place items in center  */
-
 
 .container {
     position: relative;
@@ -157,12 +143,6 @@ li {
     color: #000000;
 }
 
-/* .message p {
-    font-weight: normal;
-    margin-top: 0;
-    margin-bottom: 10px;
-} */
-
 .req-item {
     margin-top: 4px;
     margin-left: 20px;
@@ -199,6 +179,3 @@ li {
     background-position: left center;
     /* Adjust position if necessary */
 }
-
-
-
